@@ -4,6 +4,8 @@
 
 Designed for macOS Ventura, Sonoma, Sequoia e versioni successive.
 
+🌐 **Sito Ufficiale:** [matteolarovere.altervista.org/Nasync/index.html](http://matteolarovere.altervista.org/Nasync/index.html)
+
 ---
 
 ## ✨ Caratteristiche Principali
@@ -22,7 +24,7 @@ Designed for macOS Ventura, Sonoma, Sequoia e versioni successive.
 
 ## 🚀 Installazione
 
-1. Scarica l'ultima versione del file `.dmg` dalla sezione **[Releases](../../releases)**.
+1. Scarica l'ultima versione del file `.dmg` dal **[Sito Ufficiale](http://matteolarovere.altervista.org/Nasync/index.html)** oppure direttamente dalla sezione **[Releases](../../releases)**.
 2. Apri il file `NaSync.dmg` e trascina **NaSync.app** nella cartella **Applicazioni**.
 3. Avvia l'app e assegna i permessi di **Accesso completo al disco** quando richiesto:
    * *Impostazioni di Sistema > Privacy e Sicurezza > Accesso completo al disco* -> Abilita **NaSync**.
@@ -42,6 +44,13 @@ Designed for macOS Ventura, Sonoma, Sequoia e versioni successive.
 ## 🛡️ Privacy e Sicurezza
 
 NaSync opera esclusivamente in locale sul tuo Mac. Nessun dato, credenziale o log viene inviato a server esterni.
+
+---
+
+## 🌐 Link Utili
+
+* **Landing Page:** [http://matteolarovere.altervista.org/Nasync/index.html](http://matteolarovere.altervista.org/Nasync/index.html)
+* **Download Diretto Ultima Versione:** [Scarica NaSync.dmg](https://github.com/MatteoLaRovere/NaSync/releases/latest/download/NaSync.dmg)
 
 ---
 
