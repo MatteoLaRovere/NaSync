@@ -10,6 +10,10 @@
 
   ---
 
+  <img src="http://nasync.altervista.org/github-image.jpg" alt="NaSync Preview" width="700" style="border-radius: 12px; margin: 20px 0;">
+
+  ---
+
   [🌐 Sito Ufficiale](http://nasync.altervista.org/index.html) • [📦 Scarica l'Ultima Release](https://github.com/MatteoLaRovere/NaSync/releases/latest/download/NaSync.dmg) • [💬 Report Problemi](https://github.com/MatteoLaRovere/NaSync/issues)
 
 </div>
