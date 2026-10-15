@@ -4,13 +4,13 @@
 
   **Utility nativa per macOS per la sincronizzazione automatica su NAS tramite SMB e `rsync`.**
 
-  [![Sito Ufficiale](https://img.shields.io/badge/Sito_Ufficiale-NaSync-0071e3?style=for-the-badge&logo=safari&logoColor=white)](http://matteolarovere.altervista.org/Nasync/index.html)
+  [![Sito Ufficiale](https://img.shields.io/badge/Sito_Ufficiale-NaSync-0071e3?style=for-the-badge&logo=safari&logoColor=white)](http://nasync.altervista.org/Nasync/index.html)
   [![Download DMG](https://img.shields.io/badge/Scarica-NaSync.dmg-22c55e?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/MatteoLaRovere/NaSync/releases/latest/download/NaSync.dmg)
   [![GitHub Release](https://img.shields.io/github/v/release/MatteoLaRovere/NaSync?style=for-the-badge&color=blue)](https://github.com/MatteoLaRovere/NaSync/releases)
 
   ---
 
-  [🌐 Sito Ufficiale](http://matteolarovere.altervista.org/Nasync/index.html) • [📦 Scarica l'Ultima Release](https://github.com/MatteoLaRovere/NaSync/releases/latest/download/NaSync.dmg) • [💬 Report Problemi](https://github.com/MatteoLaRovere/NaSync/issues)
+  [🌐 Sito Ufficiale](http://nasync.altervista.org/Nasync/index.html) • [📦 Scarica l'Ultima Release](https://github.com/MatteoLaRovere/NaSync/releases/latest/download/NaSync.dmg) • [💬 Report Problemi](https://github.com/MatteoLaRovere/NaSync/issues)
 
 </div>
 
@@ -38,7 +38,7 @@ Progettato per macOS Ventura, Sonoma, Sequoia e versioni successive.
 
 ## 🚀 Installazione
 
-1. Scarica l'ultima versione del file `.dmg` dal **[Sito Ufficiale](http://matteolarovere.altervista.org/Nasync/index.html)** oppure direttamente dalla sezione **[Releases](../../releases)**.
+1. Scarica l'ultima versione del file `.dmg` dal **[Sito Ufficiale](http://nasync.altervista.org/Nasync/index.html)** oppure direttamente dalla sezione **[Releases](../../releases)**.
 2. Apri il file `NaSync.dmg` e trascina **NaSync.app** nella cartella **Applicazioni**.
 3. Avvia l'app e assegna i permessi di **Accesso completo al disco** quando richiesto:
    * *Impostazioni di Sistema > Privacy e Sicurezza > Accesso completo al disco* ➔ Abilita **NaSync**.
